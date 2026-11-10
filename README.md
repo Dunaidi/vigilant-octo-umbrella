@@ -31,6 +31,11 @@ python zyb_bidaxiao_pk.py --rounds 0
 | `--serial` | 多设备时指定 ADB 序列号 |
 | `--log-dir` | 日志目录，默认 `./zyb_logs` |
 
+## 贡献者
+
+- [Dunaidi](https://github.com/Dunaidi)
+- [Codex](https://openai.com/codex)（协助开发）
+
 ## License
 
 MIT
