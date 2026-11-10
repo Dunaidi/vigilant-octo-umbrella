@@ -10,12 +10,20 @@
 - [雷电模拟器](https://www.ldmnq.com/)（默认路径含 `adb.exe` / `ldconsole.exe`）
 - Python 3.10+（直接跑源码时）；或使用自行打包的 exe
 
+## 成品下载
+
+可直接从 [Releases](https://github.com/Dunaidi/vigilant-octo-umbrella/releases) 下载打包好的 `zyb_bidaxiao_pk.exe`（Windows，需本机已安装并可用雷电模拟器 / ADB）。
+
 ## 快速开始
 
 ```bash
+# 源码
 python zyb_bidaxiao_pk.py --check
 python zyb_bidaxiao_pk.py
 python zyb_bidaxiao_pk.py --rounds 0
+
+# 或运行 Release 中的 exe
+zyb_bidaxiao_pk.exe
 ```
 
 空格暂停，Ctrl+C 停止。
