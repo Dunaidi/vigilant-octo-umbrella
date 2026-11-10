@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project local
+zyb_logs/
+*.exe
+*.bak*
+_zyb_ui.xml
+ui_*.xml
+captcha_*.png
+docs/superpowers/
